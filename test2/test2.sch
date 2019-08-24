@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:test2-cache
 EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
@@ -25,7 +26,7 @@ F 3 "~" H 3050 2850 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L badgelife_shitty_addon_v169bis:Badgelife_sao_connector_v169bis X1
+L test2-rescue:Badgelife_sao_connector_v169bis-badgelife_shitty_addon_v169bis X1
 U 1 1 5D5EDCBC
 P 4950 2950
 F 0 "X1" H 5278 2996 50  0000 L CNN
@@ -41,7 +42,7 @@ U 1 1 5D5F6063
 P 2100 4100
 F 0 "D1" H 2100 4597 50  0000 C CNN
 F 1 "LED_RGBA" H 2100 4506 50  0000 C CNN
-F 2 "digikey-footprints:LED_2-SMD_Gull_Wing_4.4x3.85mm" H 2100 4050 50  0001 C CNN
+F 2 "plcc4:MF_LEDs-PLCC4" H 2100 4050 50  0001 C CNN
 F 3 "~" H 2100 4050 50  0001 C CNN
 	1    2100 4100
 	1    0    0    -1  
@@ -52,7 +53,7 @@ U 1 1 5D5F8010
 P 2800 4100
 F 0 "D2" H 2800 4597 50  0000 C CNN
 F 1 "LED_RGBA" H 2800 4506 50  0000 C CNN
-F 2 "digikey-footprints:LED_2-SMD_Gull_Wing_4.4x3.85mm" H 2800 4050 50  0001 C CNN
+F 2 "plcc4:MF_LEDs-PLCC4" H 2800 4050 50  0001 C CNN
 F 3 "~" H 2800 4050 50  0001 C CNN
 	1    2800 4100
 	1    0    0    -1  
@@ -63,7 +64,7 @@ U 1 1 5D5F8E38
 P 3450 4100
 F 0 "D3" H 3450 4597 50  0000 C CNN
 F 1 "LED_RGBA" H 3450 4506 50  0000 C CNN
-F 2 "digikey-footprints:LED_2-SMD_Gull_Wing_4.4x3.85mm" H 3450 4050 50  0001 C CNN
+F 2 "plcc4:MF_LEDs-PLCC4" H 3450 4050 50  0001 C CNN
 F 3 "~" H 3450 4050 50  0001 C CNN
 	1    3450 4100
 	1    0    0    -1  
