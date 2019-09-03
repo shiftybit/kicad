@@ -1,0 +1,13 @@
+Reference, Quantity, Value, Footprint, Datasheet, Category, DK_Datasheet_Link, DK_Detail_Page, Description, Digi-Key_PN, Family, MPN, Manufacturer, Status
+BAT1 ,1,"BS-7","digikey-footprints:Battery_Holder_Coin_2032_BS-7","http://www.memoryprotectiondevices.com/datasheets/BS-7-datasheet.pdf","Battery Products","http://www.memoryprotectiondevices.com/datasheets/BS-7-datasheet.pdf","/product-detail/en/mpd-memory-protection-devices/BS-7/BS-7-ND/389447","BATTERY HOLDER COIN 20MM PC PIN","BS-7-ND","Battery Holders, Clips, Contacts","BS-7","MPD (Memory Protection Devices)","Active"
+C1 ,1,"10uF","Capacitor_THT:CP_Radial_D5.0mm_P2.00mm","~"
+C2 ,1,"100uF","Capacitor_THT:CP_Radial_D6.3mm_P2.50mm","~"
+D1 D2 ,2,"RED","LED_THT:LED_D3.0mm","~"
+Q1 ,1,"2N3904","Package_TO_SOT_THT:TO-92_Inline","https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf"
+R1 R3 ,2,"22k","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal","~"
+R2 ,1,"330k","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal","~"
+R4 ,1,"100k","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal","~"
+R5 ,1,"10k","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal","~"
+R6 R7 ,2,"100","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal","~"
+S1 ,1,"EG1218","digikey-footprints:Switch_Slide_11.6x4mm_EG1218","http://spec_sheets.e-switch.com/specs/P040040.pdf","Switches","http://spec_sheets.e-switch.com/specs/P040040.pdf","/product-detail/en/e-switch/EG1218/EG1903-ND/101726","SWITCH SLIDE SPDT 200MA 30V","EG1903-ND","Slide Switches","EG1218","E-Switch","Active"
+U1 ,1,"7555","hello_world:ICM7555-PDIP",""
