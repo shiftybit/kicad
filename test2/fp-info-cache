@@ -1,4 +1,4 @@
-17013977593214584
+17041907750511575
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -72890,6 +72890,20 @@ varistor SIOV
 0
 2
 2
+badgelife_sao_v169bis
+Badgelife-SAOv169-BADGE-2x3
+Through hole straight IDC box header, 2x03, 2.54mm pitch, double rows
+Through hole IDC box header THT 2x03 2.54mm double row
+0
+6
+6
+badgelife_sao_v169bis
+Badgelife-SAOv169-SAO-2x3
+Through hole straight IDC box header, 2x03, 2.54mm pitch, double rows
+Through hole IDC box header THT 2x03 2.54mm double row
+0
+6
+6
 digikey-footprints
 3-SIP_Module_TM1000Q
 
@@ -76138,13 +76152,13 @@ Zigbee_Module_MRF24J40MD
 0
 12
 12
-test2
-
-Imported from kitt.svg
-svg2mod
+plcc4
+MF_LEDs-PLCC4
+DESCRIPTION: FOOTPRINT FOR LEDS IN PLCC4 STANDAR21
+DESCRIPTION: FOOTPRINT FOR LEDS IN PLCC4 STANDAR21
 0
-0
-0
+4
+4
 test2
 PLCC4_SMD_LED
 
@@ -76181,9 +76195,9 @@ dot-1mm
 1
 1
 test2
-kitt
-Imported from kitt.svg
-svg2mod
+ssu
+
+
 0
 0
 0
