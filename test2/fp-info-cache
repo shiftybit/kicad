@@ -1,4 +1,4 @@
-17041907750511575
+17046615057789940
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -76159,6 +76159,27 @@ DESCRIPTION: FOOTPRINT FOR LEDS IN PLCC4 STANDAR21
 0
 4
 4
+test2
+10x7_ProtoBoard
+
+
+0
+70
+70
+test2
+20x6 ProtoBoard
+
+
+0
+120
+120
+test2
+MultiDip
+24-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils)
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil
+0
+24
+24
 test2
 PLCC4_SMD_LED
 
