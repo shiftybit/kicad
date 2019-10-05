@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name test2)(type KiCad)(uri ${KIPRJMOD}/test2.pretty)(options "")(descr ""))
   (lib (name plcc4)(type KiCad)(uri F:/kicad/kicad/plcc4.pretty)(options "")(descr ""))
+  (lib (name atlanta)(type KiCad)(uri F:/kicad/kicad/atlanta/atlanta.pretty)(options "")(descr ""))
 )
