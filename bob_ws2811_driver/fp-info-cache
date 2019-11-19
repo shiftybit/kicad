@@ -1,4 +1,25 @@
-17052907513613875
+17052907513613395
+ATLANTA
+SMD-8_5x3mm
+http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=MS5607-02BA03&DocType=Data+Sheet&DocLang=English
+
+0
+8
+8
+ATLANTA
+SMDIP-8_W9.53mm_Clearance8mm
+8-lead surface-mounted (SMD) DIP package, row spacing 9.53 mm (375 mils), Clearance8mm
+SMD DIP DIL PDIP SMDIP 2.54mm 9.53mm 375mil Clearance8mm
+0
+8
+8
+ATLANTA
+att_bldg
+Imported from .tt_bldg.svg
+svg2mod
+0
+0
+0
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -51393,6 +51414,13 @@ DIL DIP PDIP 2.54mm 7.62mm 300mil
 0
 4
 4
+PLCC4
+MF_LEDs-PLCC4
+DESCRIPTION: FOOTPRINT FOR LEDS IN PLCC4 STANDAR21
+DESCRIPTION: FOOTPRINT FOR LEDS IN PLCC4 STANDAR21
+0
+4
+4
 Package_BGA
 Analog_BGA-28_4.0x6.25mm_Layout4x7_P0.8mm_Ball0.45mm_Pad0.4
 Analog BGA-28 4.0mm x 6.25mm package, pitch 0.4mm pad, based on https://www.analog.com/media/en/technical-documentation/data-sheets/8063fa.pdf
@@ -67836,6 +67864,76 @@ Logo WEEE
 0
 0
 0
+TEST2
+4x1_ProtoBoard
+
+
+0
+4
+4
+TEST2
+10x7_ProtoBoard
+
+
+0
+70
+70
+TEST2
+20x6 ProtoBoard
+
+
+0
+120
+120
+TEST2
+MultiDip
+24-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils)
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil
+0
+24
+24
+TEST2
+PLCC4_SMD_LED
+
+
+0
+1
+1
+TEST2
+ProtoBoard
+
+
+0
+224
+224
+TEST2
+dot
+
+
+0
+1
+1
+TEST2
+dot-0.5mm
+
+
+0
+1
+1
+TEST2
+dot-1mm
+
+
+0
+1
+1
+TEST2
+ssu
+
+
+0
+0
+0
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
 Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
@@ -72890,27 +72988,6 @@ varistor SIOV
 0
 2
 2
-atlanta
-SMD-8_5x3mm
-http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=MS5607-02BA03&DocType=Data+Sheet&DocLang=English
-
-0
-8
-8
-atlanta
-SMDIP-8_W9.53mm_Clearance8mm
-8-lead surface-mounted (SMD) DIP package, row spacing 9.53 mm (375 mils), Clearance8mm
-SMD DIP DIL PDIP SMDIP 2.54mm 9.53mm 375mil Clearance8mm
-0
-8
-8
-atlanta
-att_bldg
-Imported from .tt_bldg.svg
-svg2mod
-0
-0
-0
 badgelife_sao_v169bis
 Badgelife-SAOv169-BADGE-2x3
 Through hole straight IDC box header, 2x03, 2.54mm pitch, double rows
@@ -76173,80 +76250,3 @@ Zigbee_Module_MRF24J40MD
 0
 12
 12
-plcc4
-MF_LEDs-PLCC4
-DESCRIPTION: FOOTPRINT FOR LEDS IN PLCC4 STANDAR21
-DESCRIPTION: FOOTPRINT FOR LEDS IN PLCC4 STANDAR21
-0
-4
-4
-test2
-4x1_ProtoBoard
-
-
-0
-4
-4
-test2
-10x7_ProtoBoard
-
-
-0
-70
-70
-test2
-20x6 ProtoBoard
-
-
-0
-120
-120
-test2
-MultiDip
-24-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils)
-THT DIP DIL PDIP 2.54mm 15.24mm 600mil
-0
-24
-24
-test2
-PLCC4_SMD_LED
-
-
-0
-1
-1
-test2
-ProtoBoard
-
-
-0
-224
-224
-test2
-dot
-
-
-0
-1
-1
-test2
-dot-0.5mm
-
-
-0
-1
-1
-test2
-dot-1mm
-
-
-0
-1
-1
-test2
-ssu
-
-
-0
-0
-0
