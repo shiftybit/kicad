@@ -13,10 +13,9 @@ This is primarily a repository created for me to keep track of all my misc elect
 	- [ ] Scale, Size, and Dimensions
 		- In order to scale, I need to have other buildings available. 
 - [ ] Westin
-	- This building is difficult due to it's cylindrical shape, and the fact that the entire thing is glass. 
-	- The nature of the entire building being glass means that my discrete led lighting technique will look considerably more ugly
-	- This also presents the problem of having no discrete windows.
-	- Could use a black board for this, and only light a few windows. 
+	- [ ] Westin Logo
+	- [ ] Need to do something about the bottom ring of lights
+	- [ ] Something to do with the sundial restaurant. 
 - [ ] Bank of America Building
 	- I'm curious about how to do the top here.
 	- Current plan is to do naked FR4 material and use basic LEDS mounted behind the FR4 to diffuse the orange/yellowish light through the substrate material. 
